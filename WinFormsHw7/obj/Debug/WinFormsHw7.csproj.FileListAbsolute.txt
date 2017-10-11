@@ -1,0 +1,11 @@
+D:\WinFormsHw7\WinFormsHw7\bin\Debug\WinFormsHw7.exe.config
+D:\WinFormsHw7\WinFormsHw7\bin\Debug\WinFormsHw7.exe
+D:\WinFormsHw7\WinFormsHw7\bin\Debug\WinFormsHw7.pdb
+D:\WinFormsHw7\WinFormsHw7\obj\Debug\WinFormsHw7.csprojResolveAssemblyReference.cache
+D:\WinFormsHw7\WinFormsHw7\obj\Debug\WinFormsHw7.Properties.Resources.resources
+D:\WinFormsHw7\WinFormsHw7\obj\Debug\WinFormsHw7.RGB.resources
+D:\WinFormsHw7\WinFormsHw7\obj\Debug\WinFormsHw7.RGBTwo.resources
+D:\WinFormsHw7\WinFormsHw7\obj\Debug\WinFormsHw7.csproj.GenerateResource.Cache
+D:\WinFormsHw7\WinFormsHw7\obj\Debug\WinFormsHw7.csproj.CoreCompileInputs.cache
+D:\WinFormsHw7\WinFormsHw7\obj\Debug\WinFormsHw7.exe
+D:\WinFormsHw7\WinFormsHw7\obj\Debug\WinFormsHw7.pdb
